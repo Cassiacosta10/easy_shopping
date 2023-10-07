@@ -1,5 +1,5 @@
 <h1 align=center>Easy Shopping</h1>
-<h2> Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub"/>DevClub</a> e foi feito na forma Desktop e Responsivo</h2>
+<h2> Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub"/>DevClub</a> e foi feito na forma desktop, responsivo e utilizando o design do Figma</h2>
 <h3> Tecnologias utilizadas: </h3>
 <p> HTML </p>
 <p> CSS </p>
